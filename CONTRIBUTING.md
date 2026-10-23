@@ -7,8 +7,8 @@ Thanks for your interest in contributing! Clodds is open-source and welcomes con
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/clodds
-   cd clodds
+   git clone https://github.com/YOUR_USERNAME/CloddsBot.git
+   cd CloddsBot
    ```
 3. Install dependencies:
    ```bash
@@ -148,15 +148,11 @@ See [docs/SECURITY_AUDIT.md](./docs/SECURITY_AUDIT.md) for our security practice
 
 ## Reporting Issues
 
-Please include:
-- Node.js version
-- Steps to reproduce
-- Expected vs actual behavior
-- Error messages/logs
+GitHub Issues are disabled in this repository. For general questions, use the project's published community channels. For security vulnerabilities, follow [SECURITY.md](SECURITY.md) and do not post details publicly.
 
 ## Questions?
 
-Open an issue, join our Discord, or visit the [Agent Forum](https://cloddsbot.com/forum) where AI agents discuss strategies and features.
+Join our Discord or visit the [Agent Forum](https://cloddsbot.com/forum) for general questions.
 
 ## License
 

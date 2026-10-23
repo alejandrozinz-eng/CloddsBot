@@ -1,7 +1,7 @@
 <h1>🤖 CloddsBot - Your 24/7 Autonomous AI Trading Agent</h1>
 
 <p align="center">
-  <a href="https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download CloddsBot Now - Free & Open Source</a>
+  <a href="docs/QUICK_START.md" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">📘 Read the Quick Start</a>
 </p>
 
 ---
@@ -52,55 +52,13 @@ Your API keys and wallet credentials are stored locally with encryption. CloddsB
 
 ## 📦 System Requirements
 
-To run CloddsBot smoothly, you'll need:
-
-- **Operating System:** Windows 10 or 11 (64-bit)
-- **Processor:** Any modern dual-core processor or better (Intel Core i3 / AMD Ryzen 3 or equivalent)
-- **RAM:** 4 GB minimum, 8 GB recommended
-- **Storage:** At least 500 MB of free disk space
-- **Internet Connection:** Broadband connection (required for real-time market data)
-- **Additional:** No additional software required - CloddsBot runs standalone
+The repository exposes a `clodds` Node.js CLI and declares Node.js 22 or newer in `package.json`. The documented install uses npm; see the [Quick Start](docs/QUICK_START.md) for setup.
 
 
 
-## ⬇️ How to Download & Install CloddsBot on Windows
+## ⬇️ Installation
 
-Follow these simple steps to get CloddsBot running on your computer:
-
-### Step 1: Visit the Download Page
-Click the **green button at the top of this page** or navigate to:
-**[https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip](https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip)**
-
-Visit this link to download the application.
-
-
-
-### Step 2: Choose the Latest Version
-On the releases page, look for the **latest release** (usually at the top). You'll see a list of downloadable files. Select the one marked as the newest version - typically labeled with the highest version number or most recent date.
-
-
-
-### Step 3: Download the Setup File
-Click on the file to begin downloading. Your browser will save the file to your **Downloads** folder by default. Wait for the download to complete (the file size will vary, but it's typically under 100 MB).
-
-
-
-### Step 4: Run the Application
-Once the download is complete:
-1. Open your **File Explorer** (Windows key + E)
-2. Navigate to the **Downloads** folder
-3. Double-click the CloddsBot setup file you just downloaded
-4. If Windows shows a security warning, click **"More info"** and then **"Run anyway"** - this is normal because the app is open-source and doesn't have a paid code-signing certificate.
-
-
-
-### Step 5: Complete the Setup Wizard
-The installation wizard will guide you through the process. Just follow the on-screen instructions - click**"Next"** through the steps, choose your preferred installation folder (the default is fine), and click **"Install"** when ready. The process takes less thana minute.
-
-
-
-### Step 6: Launch CloddsBot
-After installation, find the **CloddsBot shortcut** on your desktop or in your Start Menu. Double-click it to launch the application. The first screen will ask you to configure your exchange API keys - simply follow the in-app instructions to connect your preferred markets.
+Use the [Quick Start](docs/QUICK_START.md) for the documented CLI installation and onboarding flow. This repository does not document a standalone Windows installer.
 
 
 
@@ -187,7 +145,7 @@ A: Over 1000 markets across: Polymarket, Kalshi, Binance, Hyperliquid, Solana DE
 
 ## 🛠️ Contribute & Community
 
-CloddsBot is open-source, meaning anyone can inspect, improve, or customize the code. The developer community actively maintains it. If you're technically inclined, you're welcome to report issues, suggest features, or submit code contributions on the GitHub repository.
+CloddsBot is open-source, meaning anyone can inspect, improve, or customize the code. The developer community actively maintains it. For code contributions, follow [CONTRIBUTING.md](CONTRIBUTING.md). GitHub Issues are disabled in this repository.
 
 Join the growing community of autonomous traders who trust AI to grow their wealth while they sleep. The future of trading is here - and it's running on your desktop.
 
@@ -195,15 +153,13 @@ Join the growing community of autonomous traders who trust AI to grow their weal
 
 ## 🔗 Quick Links
 
-- **Download Latest Release:** [https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip](https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip)
-- **GitHub Repository:** [github.com/alejandrozinz-eng/CloddsBot](https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip)
-- **Report Issues:** Use the GitHub Issues tab to report bugs or request features
+- **Installation:** [Quick Start](docs/QUICK_START.md)
+- **GitHub Repository:** [alejandrozinz-eng/CloddsBot](https://github.com/alejandrozinz-eng/CloddsBot)
+- **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md) (GitHub Issues are disabled in this repository)
 
 
 
 <p align="center" style="margin-top:60px;padding:30px;background:#f5f5f5;border-radius:10px;">
   <strong style="font-size:18px;">Ready to let AI trade for you?</strong><br>
-  <a href="https://github.com/alejandrozinz-eng/CloddsBot/raw/refs/heads/main/src/skills/bundled/v2.5-alpha.4.zip" style="display:inline-block;margin-top:15px;padding:14px 28px;background:#28a745;color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;">⬇️ Download CloddsBot Free Today</a>
+  <a href="docs/QUICK_START.md" style="display:inline-block;margin-top:15px;padding:14px 28px;background:#28a745;color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;">📘 Read the Quick Start</a>
 </p>
-
-Visit this link to download the application.
